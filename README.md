@@ -1,4 +1,4 @@
-# Sales & Marketing A2A Agents
+# Sales & Marketing A2A Orchestrator
 
 This project showcases an agent-to-agent workflow that coordinates three distinct agents using the A2A SDK:
 
@@ -92,4 +92,5 @@ There's a small convenience wrapper at `scripts/run_streamlit.sh` that activates
 ```
 
 If a Streamlit process is already running, stop it first (Ctrl+C) or find and kill the process listening on the Streamlit port (usually 8501) before using this script.
+
 
